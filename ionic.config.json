@@ -1,0 +1,7 @@
+{
+  "name": "ionic-t-banganan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
